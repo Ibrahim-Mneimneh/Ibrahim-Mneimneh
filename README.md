@@ -4,7 +4,7 @@
 - ✨Creating bugs since 2020  
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- ❓ Ask me about anything about MERN stack and related technologies  
   
 
 - ✅ Can center a div, I hope.  
