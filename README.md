@@ -9,9 +9,9 @@
 
 
 ### 🚀 About Me
-- 🌱 Currently exploring advanced **MERN Stack** and **Cloud Technologies**.
-- ❓ Open to questions on **MERN stack**, **DevOps**, and **Frontend Best Practices**.
-- ✅ Proud to (mostly) **center a div**.
+- 🌱 Currently exploring advanced **MERN Stack** and **Cloud Engineering**.
+- ❓ Open to questions on **MERN stack**.
+- ✅ Can **center a div** (I hope).
 
 
 
