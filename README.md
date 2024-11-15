@@ -29,7 +29,6 @@
   <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ibrahim-Mneimneh&layout=compact&langs_count=8" alt="Top Languages" />
 </div>
 
----
 
 ### 🎯 Let's Connect
 <p align="center">
