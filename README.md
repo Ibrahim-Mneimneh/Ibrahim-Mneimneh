@@ -4,7 +4,7 @@
   
 
 
-<p align="center">✨ Crafting code (and bugs) since 2020 ✨</p>
+<p align="center">✨ Writing code (and bugs) since 2020 ✨</p>
 
 
 
