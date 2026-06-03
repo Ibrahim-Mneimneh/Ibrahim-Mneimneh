@@ -4,18 +4,21 @@
   
 
 
-<p align="center">✨ Writing code (and bugs) since 2020 ✨</p>
+<p align="center">Writing code (and bugs) since 2020 ✨</p>
 
 
 
-### 🚀 About Me
-- 🌱 Currently exploring advanced **MERN Stack** and **Cloud Engineering**.
-- ❓ Open to questions on **MERN stack**.
-- ✅ Can **center a div** (I hope).
+### About Me
+
+* Full-Stack Engineer turning coffee into scalable applications.
+* Exploring **Cloud Engineering** & **Kubernetes**.
+* Always happy to talk **MERN Stack**.
+* Can center a div (on a good day).
 
 
 
-### 🛠️ Tech Stack
+
+### Tech Stack
 <div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,java,python,javascript,typescript,nodejs,react,nextjs,kubernetes,docker,postman,git" alt="Tech Stack" />
@@ -23,14 +26,14 @@
 </div>
 
 
-### 📊 GitHub Stats
+### GitHub Stats
 <div align="center">
   <img height="200" src="https://github-readme-stats.vercel.app/api?username=Ibrahim-Mneimneh&show_icons=true" alt="GitHub Stats" />
   <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ibrahim-Mneimneh&layout=compact&langs_count=8" alt="Top Languages" />
 </div>
 
 
-### 🎯 Let's Connect
+### Let's Connect
 <p align="center">
   <a href="https://www.linkedin.com/in/ibrahim-mneimneh02/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
